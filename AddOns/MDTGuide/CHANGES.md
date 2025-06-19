@@ -1,2 +1,0 @@
-- Updated ToC version for patch 11.1.7
-- Hide season selection dropdown in guide mode
